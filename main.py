@@ -21,6 +21,7 @@ index_form ="""
                 margin: 10px 0;
                 width: 540px;
                 height: 120px;
+                {{0}}
             }
         </style>
     </head>
